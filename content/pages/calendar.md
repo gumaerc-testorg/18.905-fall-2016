@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section list the topics for each class session as well as key dates
+  for assignments and exams.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 5030dabc-0226-3464-0cf5-f9ef44d9b528
 ---
