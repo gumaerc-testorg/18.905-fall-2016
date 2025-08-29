@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-905-algebraic-topology-i-fall-2016/2dad3dd8354992d877fbeca4049817ee_MIT18_905F16_lecture_notes.pdf
+file: /ol-ocw-studio-app/courses/18-905-algebraic-topology-i-fall-2016/2dad3dd8354992d877fbeca4049817ee_MIT18_905F16_lecture_notes.pdf
 file_size: 998294
 file_type: application/pdf
 learning_resource_types:
